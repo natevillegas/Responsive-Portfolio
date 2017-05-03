@@ -174,7 +174,7 @@ h3,
   line-height: 30px;
   color: #fff;
   text-align: center;
-  background: #4aaaa5;
+  background: #808080;
   border-bottom: 0;
 }
 
@@ -225,6 +225,7 @@ input[type=submit] {
   border: 0 none;
 }
 
+/* Media queries for when screen is 980px */
 @media screen and (max-width: 980px) {
 
   /* header */
@@ -267,6 +268,7 @@ input[type=submit] {
 
 }
 
+/* Media queries for when screen is 768px */
 @media screen and (max-width: 768px) {
 
   /* header */
@@ -308,6 +310,7 @@ footer {
 
 }
 
+/* Media queries for when screen is 640px */
 @media screen and (max-width: 640px) {
 
 /* header */
